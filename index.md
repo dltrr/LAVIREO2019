@@ -1,4 +1,4 @@
-# _I Simpósio LAVIREO_
+# I Simpósio LAVIREO
 
 Nesta página você irá encontrar os materiais necessários para as análises, como datasets, programas e tutoriais.
 
