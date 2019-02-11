@@ -21,7 +21,7 @@ Nesta página você irá encontrar os materiais necessários para as análises, 
 - Modelos de substituição [download](/assets/classes/Modelos_LAVIREO_2019.pdf)
 - Neighbor-joining [download](/assets/classes/NJ_LAVIREO_2019.pdf)
 - Recombinação [download](/assets/classes/Recombinação_LAVIREO_2019.pdf)
-- Máxima-Verossimilhança [download](/assets/classes/ML_LAVIREO_2019.pdf)
+- Máxima-Verossimilhança [download](/assets/classes/MV_LAVIREO_2019.pdf)
 
 ### Datasets
 
